@@ -106,6 +106,10 @@ select {
   color: white;
   background-color: var(--primary-color);
   border-radius: 6px;
+
+  & a {
+    color: white;
+  }
 }
 
 .btn-outline:hover {
