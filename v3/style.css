@@ -114,6 +114,10 @@ select {
   border-radius: 6px;
 }
 
+.btn-primary a {
+  color: white;
+}
+
 /* GRID */
 
 .grid {

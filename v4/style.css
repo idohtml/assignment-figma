@@ -2,8 +2,8 @@
 @import url("https://fonts.googleapis.com/css2?family=Ramaraja&display=swap");
 
 :root {
-  --primary-color: hsla(238, 85%, 63%, 1);
-  --primary-color-hover: hsla(238, 85%, 63%, 0.7);
+  --primary-color: hsla(335, 97%, 66%, 1);
+  --primary-color-hover: hsla(335, 97%, 66%, 0.7);
   --txt-primary: hsla(259, 74%, 15%, 1);
   --txt-secondary: hsla(0, 0%, 60%, 1);
 }
