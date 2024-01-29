@@ -37,6 +37,20 @@ video {
   max-width: 100%;
 }
 
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+figure,
+blockquote,
+dl,
+dd {
+  margin-block-end: 0;
+}
+
 ul [role="list"],
 ol [role="list"] {
   list-style: none;
